@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InstentsProj</string>
+    <string name="ok">OK</string>
+    <string name="no1">Number 1 :</string>
+    <string name="no2">Number 2 :</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
